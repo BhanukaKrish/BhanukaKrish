@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/BhanukaKrish/BhanukaKrish/tree/main/animation_500_kxa883sd.gif" alt="Bhanuka" /></p>
+<p><img align="right" src="https://github.com/BhanukaKrish/BhanukaKrish/blob/main/animation_500_kxa883sd.gif" alt="Bhanuka" /></p>
 
 - 🔭 I’m currently working on [Arimac](https://arimaclanka.com/)
 - 🌱 I’m currently learning **React Native**
