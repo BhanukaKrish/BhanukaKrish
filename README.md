@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanuk Krish</h1>
-<h3 align="center">Senior Software Enginner at Arimac🌟.</h3>
+<h3 align="center">Senior Software Enginner at Swivel Group🌟.</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <p><img align="right" src="https://github.com/BhanukaKrish/BhanukaKrish/blob/main/animation_500_kxa883sd.gif" alt="Bhanuka" /></p>
 
-- 🔭 I’m currently working on [Arimac](https://arimaclanka.com/)
+- 🔭 I’m currently working on [Swivel Group](https://swivelgroup.com.au/)
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **bhanukakrish@gmail.com**
