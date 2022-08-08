@@ -76,11 +76,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanukakrish&show_icons=true&locale=en"
-    alt="bhanukakrish" /></p>
-
-<br>
-
 ---
 
 [Bhanuka Krish](https://github.com/BhanukaKrish)
