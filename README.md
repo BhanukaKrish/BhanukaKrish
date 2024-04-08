@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanuk Krish</h1>
-<h3 align="center">Senior Software Enginner at Swivel Group🌟.</h3>
+<h3 align="center">Associate Tech Lead🌟.</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bhanukakrish@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact:- food and anime are the reasons to live.
 
 <br>
 
