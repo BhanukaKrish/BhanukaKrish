@@ -11,7 +11,6 @@
 
 <p><img align="right" src="https://github.com/BhanukaKrish/BhanukaKrish/blob/main/animation_500_kxa883sd.gif" alt="Bhanuka" /></p>
 
-- 🔭 I’m currently working on [Swivel Group](https://swivelgroup.com.au/)
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **bhanukakrish@gmail.com**
