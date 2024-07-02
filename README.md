@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bhanuk Krish</h1>
+<h1 align="center">Hi 👋, I'm Bhanuka Krish</h1>
 <h3 align="center">Associate Tech Lead🌟.</h3>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X610010I)
 
 <br>
 
