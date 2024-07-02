@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Krish</h1>
 <h3 align="center">Associate Tech Lead🌟.</h3>
-<div align="center">
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X610010I)
-</div>
 
 <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
